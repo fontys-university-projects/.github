@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is a collection of all the university projects I have done throughout the academic years
+For more context behind them, you can checkout my [portfolio](https://martin-iliev.com/projects)
 <!--
 
 **Here are some ideas to get you started:**
