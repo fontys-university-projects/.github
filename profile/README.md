@@ -28,4 +28,7 @@ Hi there! 👋 This is a collection of all the university projects I have done t
    - Description: Smart Mobile, first phase duo group project with mix of all three platforms PWA, IOS and Kotlin
    - [Repository](https://github.com/fontys-university-projects/vartin)
    - Languages: Vue, Swift, Kotlin
-
+6. **Webground Cropper**
+   - Description: This is a custom cropper specifically built for the webground's cms
+   - [Repository](https://github.com/fontys-university-projects/webground-cropper)
+   - Languages: Vue.js with Filepond and Vue Advanced Cropper
