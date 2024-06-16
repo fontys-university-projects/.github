@@ -32,3 +32,7 @@ Hi there! 👋 This is a collection of all the university projects I have done t
    - Description: This is a custom cropper specifically built for the webground's cms
    - [Repository](https://github.com/fontys-university-projects/webground-cropper)
    - Languages: Vue.js with Filepond and Vue Advanced Cropper
+6. **Webground CRM**
+   - Description: This is the Custom CRM platform that was created during my internship
+   - [Repository](https://github.com/fontys-university-projects/wbg-crm)
+   - Languages: Vue.js with ApexChart and Tolgee Localization
