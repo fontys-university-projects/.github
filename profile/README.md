@@ -36,7 +36,7 @@ Hi there! 👋 This is a collection of all the university projects I have done t
    - Description: This is the Custom CRM platform that was created during my internship
    - [Repository](https://github.com/fontys-university-projects/wbg-crm)
    - Languages: Vue.js with ApexChart and Tolgee Localization
-7. **VideLab Platfrom**
+7. **VideLab Platform**
    - Description: This is a full-stack project that was specifically created for Fontys's VideoLab. I am really proud of this project as a whole.
    - Notes: I will fix the backend on request for the demo if someone wants to see it, I don't do it deliberately!
    - [Repository](https://github.com/fontys-university-projects/mna4)
